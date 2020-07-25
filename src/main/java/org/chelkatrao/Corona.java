@@ -1,3 +1,5 @@
+package org.chelkatrao;
+
 public enum Corona {
 
     COVID("COVID"),

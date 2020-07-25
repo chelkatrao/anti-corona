@@ -10,11 +10,11 @@
         <relativePath/> <!-- lookup parent from uz.chelkatrao.com.repository -->
     </parent>
 
-    <groupId>org.example</groupId>
+    <groupId>org.chelkatrao</groupId>
     <artifactId>anticorona</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <groupId>org.telegram</groupId>
